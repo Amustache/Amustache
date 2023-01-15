@@ -7,7 +7,6 @@
 ## 🙆 More bout me
 
 - 🔭 I’m currently working on (see pins):
-  - [Argonodes](https://github.com/hestiaAI/Argonodes), a tool for adding semantic descriptions and generating agnostic models for multiple data sources.
   - [Vroumbot](https://github.com/Amustache/vroumbot), a Telegram bot allowing to manage community aspects around groups, and also to spam a bit.
   - ... Probably a heckton of other things.
 - 💬 I know how to code in:
